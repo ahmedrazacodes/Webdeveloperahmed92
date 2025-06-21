@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ahmedrazacodes](ahmedrazacodes)
 
-- 📫 How to reach me **ahmedrazashah3231@gmail.com**
+- 📫 How to reach me **codesahmeddev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
